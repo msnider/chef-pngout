@@ -1,0 +1,1 @@
+default[:pngout][:version] = "20130221"
